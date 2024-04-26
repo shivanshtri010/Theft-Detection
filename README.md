@@ -1,4 +1,4 @@
-Shoplifting Detection with Deep Learning
+#Shoplifting Detection with Deep Learning
 Overview
 This project aims to develop a machine learning model to detect shoplifting activities in surveillance videos. The model utilizes deep learning techniques to analyze video frames and classify them as either containing shoplifting behavior or not. The goal is to provide a tool that can assist security personnel in monitoring retail environments and identifying potential security threats.
 
